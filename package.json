@@ -1,0 +1,8 @@
+{
+    "name": "schoolInfoCrawler",
+    "dependencies": {
+      "crawler": "^1.0.5",
+      "node-xlsx": "^0.7.4"
+    }
+}
+
